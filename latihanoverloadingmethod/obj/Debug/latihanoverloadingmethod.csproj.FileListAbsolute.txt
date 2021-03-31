@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\bin\Debug\latihanoverloadingmethod.exe.config
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\bin\Debug\latihanoverloadingmethod.exe
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\bin\Debug\latihanoverloadingmethod.pdb
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\obj\Debug\latihanoverloadingmethod.csprojAssemblyReference.cache
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\obj\Debug\latihanoverloadingmethod.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\obj\Debug\latihanoverloadingmethod.exe
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\latihanoverloadingmethod\latihanoverloadingmethod\obj\Debug\latihanoverloadingmethod.pdb
